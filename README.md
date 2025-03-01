@@ -3,7 +3,7 @@
 Un TP noté de dev mobile palpitant, alliant technologies modernes et design responsive.
 Un petit clone de Leboncoin, le site de petites annonces en France.
 
-Made with ❤️ by *Tim ALEXANDRE* with *Claude Sonnet 3.7*
+Made with ❤️ by *Tim* with *Claude Sonnet 3.7*
 
 ## Fonctionnalités (demandées et ajoutées)
 
